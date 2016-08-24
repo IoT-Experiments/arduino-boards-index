@@ -1,0 +1,33 @@
+{
+  "packages": [
+    {
+      "name": "iot-experiments",
+      "maintainer": "Jean-Matthieu DECHRISTÉ",
+      "websiteURL": "https://www.iot-experiments.com",
+      "email": "contact@iot-experiments.com",
+      "help": {
+        "online": "https://www.iot-experiments.com"
+      },
+      "platforms": [
+        {
+          "name": "IoT-Experiments Boards",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "help": {
+            "online": "https://www.iot-experiments.com"
+          },
+          "url": "https://github.com/IoT-Experiments/arduino-boards/archive/v1.0.0.tar.gz",
+          "archiveFileName": "arduino-boards-1.0.0.tar.gz",
+          "checksum": "SHA-256:453e61ba591697d17833e1d5abfa77395efd3eebec8eed95e03236966b0c3c00",
+          "size": "9306",
+          "boards": [
+            {"name": "Arduino Pro Mini (1MHz internal oscillator)"}
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools":[]
+    }
+  ]
+}
